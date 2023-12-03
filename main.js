@@ -1,0 +1,1 @@
+https://teachablemachine.withgoogle.com/models/Z33D-i3b6/
